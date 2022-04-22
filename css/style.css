@@ -1,0 +1,39 @@
+.container{
+	font-size: xx-large;
+	font: bolder ;
+	
+}
+
+.col-md-3 {
+	border-right: solid black 1px;
+	border-top: solid black 1px;
+	text-align: center;
+	background-color: beige;
+
+}
+
+.col-md-6 {
+	border-right: solid black 1px;
+	border-top: solid black 1px;
+	text-align: center;
+	background-color: beige;
+
+}
+
+
+
+.first{
+	color: white;
+	background-color: grey;
+	text-align: right;
+	height: 50px;
+}
+
+
+
+.last{
+	color: white;
+	background-color: orangered;
+	height: 50px;
+	text-align: center;
+}
